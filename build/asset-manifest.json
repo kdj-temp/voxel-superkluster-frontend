@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f0a0050d.chunk.css",
+    "main.js": "./static/js/main.d2237af5.chunk.js",
+    "main.js.map": "./static/js/main.d2237af5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.782a8505.js",
+    "runtime-main.js.map": "./static/js/runtime-main.782a8505.js.map",
+    "static/css/2.cf0a6e8a.chunk.css": "./static/css/2.cf0a6e8a.chunk.css",
+    "static/js/2.b28dd923.chunk.js": "./static/js/2.b28dd923.chunk.js",
+    "static/js/2.b28dd923.chunk.js.map": "./static/js/2.b28dd923.chunk.js.map",
+    "static/js/3.399505b3.chunk.js": "./static/js/3.399505b3.chunk.js",
+    "static/js/3.399505b3.chunk.js.map": "./static/js/3.399505b3.chunk.js.map",
+    "static/js/4.7e011589.chunk.js": "./static/js/4.7e011589.chunk.js",
+    "static/js/4.7e011589.chunk.js.map": "./static/js/4.7e011589.chunk.js.map",
+    "static/js/5.02d76b15.chunk.js": "./static/js/5.02d76b15.chunk.js",
+    "static/js/5.02d76b15.chunk.js.map": "./static/js/5.02d76b15.chunk.js.map",
+    "static/js/6.63fbe0e1.chunk.js": "./static/js/6.63fbe0e1.chunk.js",
+    "static/js/6.63fbe0e1.chunk.js.map": "./static/js/6.63fbe0e1.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.cf0a6e8a.chunk.css.map": "./static/css/2.cf0a6e8a.chunk.css.map",
+    "static/css/main.f0a0050d.chunk.css.map": "./static/css/main.f0a0050d.chunk.css.map",
+    "static/js/2.b28dd923.chunk.js.LICENSE.txt": "./static/js/2.b28dd923.chunk.js.LICENSE.txt",
+    "static/js/3.399505b3.chunk.js.LICENSE.txt": "./static/js/3.399505b3.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "./static/media/rankingMobile.ebd68746.png",
+    "static/media/style.css": "./static/media/et-line.613c7311.svg",
+    "static/media/eth.svg": "./static/media/eth.9d845e28.svg",
+    "static/media/moon.1ec6354d.svg": "./static/media/moon.1ec6354d.svg",
+    "static/media/styles.css": "./static/media/revicons.e8746a62.woff",
+    "static/media/sun.bbb9c19f.svg": "./static/media/sun.bbb9c19f.svg",
+    "static/media/userfollow.41951f41.svg": "./static/media/userfollow.41951f41.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.782a8505.js",
+    "static/css/2.cf0a6e8a.chunk.css",
+    "static/js/2.b28dd923.chunk.js",
+    "static/css/main.f0a0050d.chunk.css",
+    "static/js/main.d2237af5.chunk.js"
+  ]
+}
